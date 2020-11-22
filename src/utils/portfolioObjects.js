@@ -19,8 +19,8 @@ const portfolioObjects = [
 		img:"/assets/img/learn.png",
 		title:"Learn Javascript",
 		description:".",
-		urlDemo:"https://github.com/MClarke9k9/Learn-Javascript",
-		urlCode:"https://mclarke9k9.github.io/Learn-Javascript/",
+		urlDemo:"https://mclarke9k9.github.io/Learn-Javascript/",
+		urlCode:"https://github.com/MClarke9k9/Learn-Javascript",
 		details:["Bootstrap","CSS3","DOM Manipulation","Javascript","jQuery",],
 	},
 	{
