@@ -30,7 +30,7 @@ class AboutMe extends Component{
 							<div className="col s12 m6 l6 left-align">
 								<h4 className="no-margin">About <strong className="red-text">Me</strong></h4>
 								<p className="">
-									Hi! I&apos;m Mark Clarke. I am a full stack developer currently living in South Florida, FL.
+									Hi! I&apos;m Mark Clarke. I am a full stack developer currently living in South Florida.
 								</p>
 								<p>
 									I enjoy coding for both the front end and the back end. In particular, I enjoy the sense of pride and accomplishment when combining everything into a complete project.
