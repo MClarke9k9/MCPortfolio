@@ -9,7 +9,7 @@ class PortfolioCard extends Component{
 			<div className="portfolio-slick-padding">
 				<div className="card">
 					<div className="card-image">
-						<img src={this.props.img} alt="" />
+						<img src={this.props.img} alt='' />
 					</div>
 					<div className="card-content">
 						<a href={this.props.urlDemo} target="_blank"><h5 className="no-top-margin"><strong className="black-text darken-4" dangerouslySetInnerHTML={createMarkup(this.props.title)}></strong></h5></a>
