@@ -8,7 +8,7 @@ class Follow extends Component {
 				<div className="container">
 					<div className="row">
 						<div className="col s12">
-							<h4>Mark CLarke&apos;s Social Stuff</h4>
+							<h4>Mark Clarke&apos;s Social Stuff</h4>
 							<p>Links to my Github, Instagram, and LinkedIn.</p>
 							<a href="https://github.com/MClarke9k9" className="white-text" target="_blank" rel="noopener noreferrer">
 								<i className="fab fa-github fa-4x"></i>
