@@ -1,12 +1,12 @@
 //---<@
 const portfolioObjects = [
 	{
-		img:"/assets/img/note.png",
-		title:"NoteTaker",
+		img:"/assets/img/user.png",
+		title:"User Directiory",
 		description:".",
-		urlDemo:"https://fierce-thicket-32504.herokuapp.com/",
-		urlCode:"https://github.com/MClarke9k9/NoteTaker",
-		details:["Bootstrap","Javascript","Nodejs","jQuery","Express","Heroku",],
+		urlDemo:"https://mclarke9k9.github.io/myapp/",
+		urlCode:"https://github.com/MClarke9k9/myapp",
+		details:["Bootstrap","Javascript","Nodejs","ReactJS","Express","Heroku",],
 	},
 	{
 		img:"/assets/img/burger.jpg",
