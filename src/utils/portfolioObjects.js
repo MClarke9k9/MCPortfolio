@@ -17,7 +17,7 @@ const portfolioObjects = [
 		details:["Materialize","ReactJS","Nodejs","MVC","Express","MySQL","Sequelize","Heroku"],
 	},
 	{
-		img:"/assets/img/PORTFO.png",
+		img:"/assets/img/PORTFO.jpg",
 		title:"My Portfolio!",
 		description:".",
 		urlDemo:"http://marksweetportfolio.herokuapp.com/",
