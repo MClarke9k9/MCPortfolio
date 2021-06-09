@@ -3,7 +3,7 @@ const portfolioObjects = [
 	{
 		img:"/assets/img/user.png",
 		title:"User Directiory",
-		description:".",
+		description:"This is a User directory application that pulls data from an random data set API and return the information in rows. Then you can search by name in the users and you will find the searched person.",
 		urlDemo:"https://mclarke9k9.github.io/myapp/",
 		urlCode:"https://github.com/MClarke9k9/myapp",
 		details:["Bootstrap","Javascript","Nodejs","ReactJS","Express","Heroku",],
