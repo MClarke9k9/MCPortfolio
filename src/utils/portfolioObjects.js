@@ -9,6 +9,22 @@ const portfolioObjects = [
 		details:["Bootstrap","Javascript","Nodejs","ReactJS","Express","Heroku",],
 	},
 	{
+		img:"/assets/img/substrak.png",
+		title:"Subtrack",
+		description:"",
+		urlDemo:"https://glacial-shore-36326.herokuapp.com/",
+		urlCode:"https://github.com/MClarke9k9/",
+		details:["Materialize","ReactJS","Nodejs","MVC","Express","MySQL","Sequelize","Heroku"],
+	},
+	{
+		img:"/assets/img/PORTFO.png",
+		title:"My Portfolio!",
+		description:".",
+		urlDemo:"http://marksweetportfolio.herokuapp.com/",
+		urlCode:"https://github.com/MClarke9k9/MCPortfolio",
+		details:["Bootstrap","MongoDB","ExpressJS","ReactJS","NodeJS","Heroku"],
+	},
+	{
 		img:"/assets/img/burger.jpg",
 		title:"HavaBurger",
 		description:".",
